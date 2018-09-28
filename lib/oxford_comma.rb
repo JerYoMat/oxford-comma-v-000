@@ -7,4 +7,5 @@ array.pop
 array.join(", ") + " and " +  last_item
 else 
   array.join(" and ")
+end 
 end
